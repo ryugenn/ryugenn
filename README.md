@@ -2,7 +2,7 @@
 
 **I'm a 13 year old programmer who enjoys coding.**
 
-- 🛠️ I'm currently working on [Zero Hours](https://github.com/BDStyles/Zero-Hours), a semi dark blue Discord theme. More information on it's repo.
+- 🛠️ I'm currently working on [Zero Hours](https://github.com/BDStyles/Zero-Hours) and [Synthcord '84](https://github.com/Synthcord-84)
 - ✍️ I'm currently learning **CSS**
 - 🤝 I'm willing to get help from anyone who has experience and knowledge about CSS.
 - 🔮 My future project (s) are: [future-theme (name isn't final)](https://github.com/BDStyles/future-theme).
