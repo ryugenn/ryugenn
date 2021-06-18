@@ -3,7 +3,7 @@ I'm Ry, a 13 year old programmer that enjoys coding.
 # Programming Languages
 - Currently Learning:
   - CSS 
- - Former/Partial Languages
+- Former/Partial Languages
   - Lua 
 
 # Top Languages Used
