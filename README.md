@@ -3,7 +3,7 @@
   <li><a href="https://github.com/rysworldd">Organization</a></li>
   <li><a href="https://rysworld.carrd.co">Carrd Profile</a></li>
   <li><a href="https://twitter.com/rysworldd">Twitter</a></li>
-  <li><a href="#">YouTube</a></li>
+  <li><a href="https://www.youtube.com/channel/UChsGFqFjxsOyB5MvH3em4cw">YouTube</a></li>
 </details>
 
 <details><summary>My Themes</summary>
