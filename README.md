@@ -1,15 +1,15 @@
 <h1>Rysworldd 🥀</h1>
-<details><summary>Discord Themes</summary>
-  <li><a href="https://github.com/rydevelopment/ComfyPink">ComfyPink</a></li>
+<details><summary>My Themes</summary>
+  <li><a href="https://github.com/rysworldd/ComfyPink">ComfyPink</a></li>
 </details>
 
-<details><summary>Stats</summary>
+<details><summary>Profile Stats</summary>
 
 ![](https://komarev.com/ghpvc/?username=ryonnn)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysworldd&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryswrldd&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Ry's Stats](https://github-readme-stats.vercel.app/api?username=rysworldd&show_icons=true&theme=radical&hide_border=true)
+![Ry's Stats](https://github-readme-stats.vercel.app/api?username=ryswrldd&show_icons=true&theme=radical&hide_border=true)
 </details>
 <!-- e | e
 
