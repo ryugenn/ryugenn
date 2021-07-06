@@ -3,18 +3,23 @@
 - 🖥️ Theme developer with 3+ months of experience and semi Lua programmer. And that's about all.
 
 **My themes**
-- 🎨 I usually make themes for Discord and sometimes release them for people to use, here's a list of all of my released or discontinued themes:
-  - [ComfyPink](https://github.com/rysworldd/ComfyPink)
-  - [Synthcord Frame](https://github.com/ryswrldd/synthcord-frame)
-  - [Synthcord '84](https://github.com/ryswrldd/themes-archive/tree/main/synthcord-84)
-  - [Hyprisms](https://github.com/ryswrldd/themes-archive/tree/main/hyprisms)
-  - [Cyancord](https://github.com/ryswrldd/themes-archive/tree/main/cyancord)
+- [ComfyPink](https://github.com/rysworldd/ComfyPink)
+- [Synthcord Frame](https://github.com/ryswrldd/synthcord-frame)
+  - A translucent discord theme that also tries to emulate a Synthwave experience. Comes with built-in variables that can be customized to your liking, such as background and colors. 
+- [Synthcord '84](https://github.com/ryswrldd/themes-archive/tree/main/synthcord-84)
+  - A dark theme that tries to emulate a Synthwave experience, inspired by Robb Owen's Synthwave '84 theme for VS Code.
+- [Hyprisms](https://github.com/ryswrldd/themes-archive/tree/main/hyprisms)
+  - A round, purple theme inspired by Nebula and Midnight Mars.
+- [Cyancord](https://github.com/ryswrldd/themes-archive/tree/main/cyancord)
+  - A deep blue cyan theme coded with compatibility for BetterDiscord. 
 
 **My scripts**
-- I sometimes make scripts for some Roblox games, here's a list of all of my released scripts:
-  - [KAT Adjustable Ammo Capacity](https://github.com/ryswrldd/kat-adjustable-ammo-capacity)
-  - [No Dash Cooldown (Anime Dimensions)](https://github.com/ryswrldd/no-dash-cooldown)
-  - [Autofarm Scripts](https://github.com/ryswrldd/autofarm-scripts)
+- [KAT Adjustable Ammo Capacity](https://github.com/ryswrldd/kat-adjustable-ammo-capacity)
+  - A script that allows you to change the revolver's ammo capacity.
+- [No Dash Cooldown (Anime Dimensions)](https://github.com/ryswrldd/no-dash-cooldown)
+  - A script that removes the cooldown on the dash ability in Anime Dimensions.
+- [Autofarm Scripts](https://github.com/ryswrldd/autofarm-scripts)
+  - A repository full of autofarm/autotap scripts for specific Roblox games.
 
 **My stats**
 
